@@ -3,9 +3,7 @@ This project analyzes customer churn data from a fictional telecom company (Data
 The dashboard was built in Power BI Desktop using DAX measures and calculated columns.
 
 🛠 Tools & Technologies
-Power BI Desktop
-DAX (Data Analysis Expressions)
-CSV Dataset (telecom churn data)
+Power BI Desktop, DAX (Data Analysis Expressions), CSV Dataset (telecom churn data). 
 
 📈 Key Features
 1. Calculated churn rate over time
